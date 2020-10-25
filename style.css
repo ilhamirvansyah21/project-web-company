@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background: #fff;
+}
+
+.navbar{
+    padding-top: 20px !important;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-item{
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+
+.nav-link{
+    color: #000 !important;
+    font-size: 12px !important;
+    padding: 0 0 5px 0 !important;
+    display: unset !important;
+}
+
+.navbar-brand img{
+    width: 200px;
+}
+
+.fa-bars{
+    color: #000;
+    font-size: 25px !important;
+}
+
+.navbar-toggler{
+    border: 0 !important;
+    outline: none !important;
+    padding: initial !important;
+}
+
+.nav-link:hover{
+    border-bottom: 2px solid #000;
+}
+
+.banner{
+    margin-top: 10%;
+    color: #000;
+}
+
+.banner h1{
+    margin: 0px 0 40px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+}
+
+.banner img{
+    max-height: 500px;
+}
+
+.banner p {
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner a{
+    padding: 12px;
+    width: 150px;
+    display: inline-block;
+    background-color: #241B57;
+    text-decoration: none !important;
+    color: #FFF;
+    border: 2px solid #241B57;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.line{
+    width: ;
+}
+
+.express-btn{
+    background: #241B57 !important;
+    font-family: 'Poppins', sans-serif;
+    color: #FFF !important;
+    margin-right: 5px;
+}
+
+.service{
+    margin: 75px 0;
+}
+
+.title{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.service-box img{
+    max-width: 500px;
+    padding-bottom: 0.5em;
+}
+
+.service h1 {
+    margin: 0px 0 40px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+}
+
+.service p {
+    font-family: 'Poppins', sans-serif;
+}
+
+.service a {
+    padding: 12px;
+    width: 150px;
+    display: inline-block;
+    background-color: #241B57;
+    text-decoration: none !important;
+    color: #FFF;
+    border: 2px solid #241B57;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.about img {
+    max-width: 600px;
+    padding-bottom: 0.5em;
+}
+
+.about p{
+    font-family: 'Poppins', sans-serif;
+}
+
+.contact {
+    font-family: 'Poppins', sans-serif;
+}
+
+.footer {
+    background-color: #241B57;
+    bottom: 0;
+    color: #fff;
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 20px;
+}
